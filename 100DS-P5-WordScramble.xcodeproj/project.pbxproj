@@ -14,6 +14,7 @@
 		B0FBACCF2C46A8E3002FFFBA /* _00DS_P5_WordScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FBACCE2C46A8E3002FFFBA /* _00DS_P5_WordScrambleTests.swift */; };
 		B0FBACD92C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FBACD82C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITests.swift */; };
 		B0FBACDB2C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FBACDA2C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITestsLaunchTests.swift */; };
+		B0FBACE82C46AF07002FFFBA /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B0FBACE72C46AF06002FFFBA /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B0FBACD42C46A8E3002FFFBA /* 100DS-P5-WordScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "100DS-P5-WordScrambleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0FBACD82C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DS_P5_WordScrambleUITests.swift; sourceTree = "<group>"; };
 		B0FBACDA2C46A8E3002FFFBA /* _00DS_P5_WordScrambleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DS_P5_WordScrambleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B0FBACE72C46AF06002FFFBA /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				B0FBACBD2C46A8DF002FFFBA /* _00DS_P5_WordScrambleApp.swift */,
 				B0FBACBF2C46A8DF002FFFBA /* ContentView.swift */,
 				B0FBACC12C46A8E3002FFFBA /* Assets.xcassets */,
+				B0FBACE72C46AF06002FFFBA /* start.txt */,
 				B0FBACC32C46A8E3002FFFBA /* Preview Content */,
 			);
 			path = "100DS-P5-WordScramble";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0FBACC52C46A8E3002FFFBA /* Preview Assets.xcassets in Resources */,
+				B0FBACE82C46AF07002FFFBA /* start.txt in Resources */,
 				B0FBACC22C46A8E3002FFFBA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
